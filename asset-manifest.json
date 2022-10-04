@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ggoit-react-mod-03-http-queries/static/css/main.1bda2854.css",
+    "main.js": "/ggoit-react-mod-03-http-queries/static/js/main.cc66358b.js",
+    "static/media/error.jpg": "/ggoit-react-mod-03-http-queries/static/media/error.7d86105a62bf3b28ec78.jpg",
+    "index.html": "/ggoit-react-mod-03-http-queries/index.html",
+    "main.1bda2854.css.map": "/ggoit-react-mod-03-http-queries/static/css/main.1bda2854.css.map",
+    "main.cc66358b.js.map": "/ggoit-react-mod-03-http-queries/static/js/main.cc66358b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bda2854.css",
+    "static/js/main.cc66358b.js"
+  ]
+}
