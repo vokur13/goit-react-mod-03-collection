@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-mod-03-http-queries",
+  "name": "goit-react-mod-03-http-collection",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vokur13.github.io/ggoit-react-mod-03-http-queries/",
+  "homepage": "https://vokur13.github.io/ggoit-react-mod-03-http-collection/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
@@ -11,6 +11,7 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "modern-normalize": "^1.0.0",
+    "normalize.css": "^8.0.1",
     "axios": "^0.27.2",
     "formik": "^2.2.9",
     "nanoid": "^4.0.0",
@@ -20,6 +21,7 @@
     "react-loader-spinner": "^5.3.4",
     "react-scripts": "5.0.1",
     "react-toastify": "^6.2.0",
+    "react-hot-toast": "^2.2.0",
     "sass": "^1.55.0",
     "styled-components": "^5.3.5",
     "styled-system": "^5.1.5",
